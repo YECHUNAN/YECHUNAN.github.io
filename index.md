@@ -1,6 +1,6 @@
 # Welcome to Chunan Ye's Github page
 
-![photo](https://github.com/YECHUNAN/YECHUNAN.github.io/assets/photo.png)
+![photo](https://YECHUNAN.github.io/assets/photo.png)
 
 ## About me
 
@@ -35,8 +35,8 @@ This is a fun multiplayer game developed with Unity as a team project. I took ch
 My current academic interest is to use traditional computer vision techniques to achieve equally good results brought by deep learning. I am studying deep learning by myself while taking courses in tradition EE signal processing and vision methods.
 
 ## Profiles
-My resume: [resumePDF](https://github.com/YECHUNAN/YECHUNAN.github.io/assets/resume.pdf)
+My resume: [resumePDF](https://YECHUNAN.github.io/assets/resume.pdf)
 link to my github [github link](https://github.com/YECHUNAN)
 
 ## Credits
-The theme provided by Github page is awesome, thank you very much.
+The theme provided by Github page is awesome. Thank you very much.
