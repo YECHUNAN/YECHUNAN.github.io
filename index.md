@@ -20,7 +20,7 @@ I developed a web crawler to search and collect image data of famous people. It 
 
 - Robotic project
 
-I implemented a 2D slam algorithm and the agent program to enable the robot to construct an M shape with foam cubes. The cubes are labeled with text and the robot uses its camera to identify different cubes. The code cannot be public for the course's reason, but the video is available in [Youtube](youtube link).
+I implemented a 2D slam algorithm and the agent program to enable the robot to construct an M shape with foam cubes. The cubes are labeled with text and the robot uses its camera to identify different cubes. The code cannot be public for the course's reason, but the video is available in [Youtube link](https://www.youtube.com/watch?v=n3H_mZfThns).
 
 - License plate reader
 
@@ -28,11 +28,11 @@ I implemented a license plate reader based on the CNN digit classifier trained o
 
 - Game design project
 
-This is a fun multiplayer game developed with Unity as a team project. I took charge of animation part of it and programmed most of the player and objects' motions. I also made the trailer. The trailer is available in [Youtube](youtube link).
+This is a fun multiplayer game developed with Unity as a team project. I took charge of animation part of it and programmed most of the player and objects' motions. I also made the trailer. The trailer is available in [Youtube link](https://youtu.be/Rns2cnl4qvA).
 
 ## Interests
 
-My current academic interest is to use traditional computer vision techniques to achieve equally good results brought by deep learning. Deep learning works well for now but I don't see the deep learning methods capturing the principles of the problems. I personally believe that as we understand the problems better, we will be able to build more accurate mathematical models to solve the problems in an elegant and efficient way.
+My current academic interest is to use traditional computer vision techniques to achieve equally good results brought by deep learning. I am studying deep learning by myself while taking courses in tradition EE signal processing and vision methods.
 
 ## Profiles
 My resume: [resumePDF](https://github.com/YECHUNAN/assets/resume.pdf)
