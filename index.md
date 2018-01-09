@@ -10,23 +10,23 @@ I am currently an ECE Master student in Computer Vision program of the Universit
 
 I have done a few computer science programming projects including algorithms, operating systems, and machine learning. I have also done some application projects involving computer vision techniques.
 
-- Software intern at Huawei Shanghai Institute
+- **Software intern at Huawei Shanghai Institute
 
 I developed a network packet parser that can extract packet data from packet files captured by Wireshark. I strictly followed the specification of the pcap and pcapng file format to parse the data into data structures specified by my manager.
 
-- Web Crawler for Yitu Tech Inc.
+- **Web Crawler for Yitu Tech Inc.
 
 I developed a web crawler to search and collect image data of famous people. It combines face recognition and a simple Chinese name detector to locate interesting data on the websites.
 
-- Robotic project
+- **Robotic project
 
 I implemented a 2D slam algorithm and the agent program to enable the robot to construct an M shape with foam cubes. The cubes are labeled with text and the robot uses its camera to identify different cubes. The code cannot be public for the course's reason, but the video is available in [Youtube link](https://www.youtube.com/watch?v=n3H_mZfThns).
 
-- License plate reader
+- **License plate reader
 
 I implemented a license plate reader based on the CNN digit classifier trained on Mnist. I extended it to classify all capital letters and digits. The interesting part is a multi-step filter that locates the OCR of the text and a hand-crafted decision tree to distinguish similar charaters, e.g. 8 and B, 0 and O. It works approximately 70% of the time. 20% of the time there are errors and 10% of the time the plate characters cannot be located correctly.
 
-- Game design project
+- **Game design project
 
 This is a fun multiplayer game developed with Unity as a team project. I took charge of animation part of it and programmed most of the player and objects' motions. I also made the trailer. The trailer is available in [Youtube link](https://youtu.be/Rns2cnl4qvA).
 
