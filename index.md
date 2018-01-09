@@ -1,6 +1,6 @@
 # Welcome to Chunan Ye's Github page
 
-![photo]()
+![photo](https://github.com/YECHUNAN/assets/photo.png)
 
 ## About me
 
