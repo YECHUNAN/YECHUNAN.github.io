@@ -18,7 +18,7 @@ I developed a network packet parser that can extract packet data from packet fil
 
 I developed a web crawler to search and collect image data of famous people. It combines face recognition and a simple Chinese name detector to locate interesting data on the websites.
 
-- **Computer Vision project: Crosswalk detector
+- **Computer Vision project: Crosswalk Detector**
 
 I implemented a crosswalk detector as a computer vision course project. It uses geometrical features, Markov Random Field model and a lot of traditional mathematical methods to detect zebra crosswalks and highlight them in the image. If you are interested in it, please check it at [Github repo](https://github.com/YECHUNAN/ComputerVision-Crosswalk-Detector).
 
