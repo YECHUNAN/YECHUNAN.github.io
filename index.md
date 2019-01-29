@@ -39,7 +39,7 @@ This is a fun multiplayer game developed with Unity as a team project. I took ch
 My current academic interest is to use traditional computer vision techniques to achieve equally good results brought by deep learning. I am studying deep learning by myself while taking courses in tradition EE signal processing and vision methods.
 
 ## Profiles
-My resume: [resumePDF](https://YECHUNAN.github.io/assets/Resume.pdf)
+My resume: [resumePDF](https://YECHUNAN.github.io/assets/resume.pdf)
 link to my github [github link](https://github.com/YECHUNAN)
 
 ## Credits
